@@ -1,0 +1,24 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "BQp-xP-ws2"; */
+"BQp-xP-ws2.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UY3-q0-kpH"; */
+"UY3-q0-kpH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WuK-fa-nsu"; */
+"WuK-fa-nsu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YUo-Ki-t8R"; */
+"YUo-Ki-t8R.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "cc0-TY-iGd"; */
+"cc0-TY-iGd.title" = "Root View Controller";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "cxk-pH-To3"; */
+"cxk-pH-To3.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kqo-n9-oMV"; */
+"kqo-n9-oMV.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Image"; ObjectID = "t39-Sg-ild"; */
+"t39-Sg-ild.title" = "Image";
